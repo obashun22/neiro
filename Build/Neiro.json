@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Tmp",
+"productName": "Neiro",
 "productVersion": "0.1",
 "dataUrl": "Neiro.data.unityweb",
 "wasmCodeUrl": "Neiro.wasm.code.unityweb",
